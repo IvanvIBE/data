@@ -390,3 +390,9 @@
     "virtual": true
   }
 ]
+{
+    "icao": "IBE",
+    "name": "vIBE",
+    "callsign": "Iberia Virtual",
+    "virtual": true
+  }
